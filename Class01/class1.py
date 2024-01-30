@@ -1,4 +1,2 @@
-name = "Ahmed Hashim"
+name : str = "Ahmed Hashim"
 print(name)
-print(type(name))
-print(id(name))
