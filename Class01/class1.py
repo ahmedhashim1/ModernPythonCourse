@@ -1,2 +1,2 @@
-name : str = "Ahmed Hashim"
+name : any = "Ahmed Hashim"
 print(name)
